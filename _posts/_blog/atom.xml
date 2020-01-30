@@ -25,4 +25,4 @@ layout: feed
 	{% endfor %}
 
 </feed>
-Now you can include a link to your RSS feed somew
+
